@@ -147,10 +147,12 @@ p {
 
     .content {
         display: block;
+        margin-left: 20%;
     }
 
     .content2 {
         display: block;
+        margin-left: 20%;
     }
 
     .title {
