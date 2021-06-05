@@ -98,22 +98,26 @@ p {
     height: 400px;
     overflow: hidden;
     background-color: #e9e9e9;
+    -webkit-touch-callout:none;
 }
 
 .private_draft_image_box img {
     width: 650px;
     margin-left: -110px;
+    -webkit-touch-callout:none
 }
 
 .private_draft_image_box_keyring {
     width: 400px;
     height: 400px;
-    overflow: hidden
+    overflow: hidden;
+    -webkit-touch-callout:none
 }
 
 .private_draft_image_box_keyring img {
     width: 400px;
     margin-left: -0px;
+    -webkit-touch-callout:none
 }
 
 .footer {
