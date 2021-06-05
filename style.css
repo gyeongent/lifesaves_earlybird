@@ -140,19 +140,19 @@ p {
     padding-top: 100px;
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:1000px) {
     .logo {
         width: 100px;
     }
 
     .content {
         display: block;
-        margin-left: 20%;
+        margin-left: 28%;
     }
 
     .content2 {
         display: block;
-        margin-left: 20%;
+        margin-left: 28%;
     }
 
     .title {
